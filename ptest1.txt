@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 002F-4A15
+
+ Directory of C:\Users\Aaditya Malya\Documents\NEW GIT  FILE
+
+06-02-2024  22:20    <DIR>          .
+06-02-2024  22:20    <DIR>          ..
+06-02-2024  22:20                 0 ptest1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  175,020,023,808 bytes free
